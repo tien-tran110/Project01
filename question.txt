@@ -1,0 +1,10 @@
+Which animal can be seen on the Porsche logo?, Horse, Snake, Lion, Bird, Horse
+What is the name of the largest ocean on earth?, Indian Ocean, Pacific Ocean, Atlantic Ocean, Arctic Ocean, Pacific Ocean
+What was the first soft drink in space?, Sprite, Coca Cola, Pepsi, Fanta, Coca Cola 
+How long is an Olympic swimming pool (in meters)?, 20 meters, 50 meters, 100 meters, 200 meters
+What is the hottest planet in the solar system?, Mecury, Earth, Venus, Mars, Venus
+Which country produces the most coffee in the world?, Brazil, United States, Cuba, Thailand, Brazil
+What is your body’s largest organ?, Stomach, Skin, Lungs, Heart, Skin
+Which fashion brand made the “Genius Jeans” that became part of the Guinness World Records?, Yves Saint Laurent, Louis Vuitton, Chanel, Gucci, Gucci
+How many presidents have been impeached?, One, Two, Three, Four, Three
+In which year World War I begin?, 1913, 1914, 1915, 1916, 1914

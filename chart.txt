@@ -1,0 +1,5 @@
+player1,0
+player2,0
+player3, 100
+longvo, 500
+thaovu, 1000
